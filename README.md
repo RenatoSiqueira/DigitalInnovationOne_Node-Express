@@ -7,4 +7,4 @@
 >- Tempo Estimado: 2h 
 >- Instrutor: Henrique Schreiner
 
-[Certificado de Conclusão](https://github.com/RenatoSiqueira/DigitalInnovationOne_Node-Express/certificado.pdf)
+[Certificado de Conclusão](https://github.com/RenatoSiqueira/DigitalInnovationOne_Node-Express/blob/master/certificado.pdf)
